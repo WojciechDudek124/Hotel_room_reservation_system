@@ -1,0 +1,2 @@
+Wojtek, Dudek, 23, MALE
+Magdalena, Igras, 20, FEMALE
